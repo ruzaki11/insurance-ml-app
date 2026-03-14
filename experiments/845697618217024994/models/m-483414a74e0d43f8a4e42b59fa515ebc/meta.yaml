@@ -1,0 +1,11 @@
+artifact_location: file:///c:\Users\user\ALEX.AI\SAIR_Jr\1_Regression\Regression Capstone
+  Projects\Awab.poject\experiments/845697618217024994/models/m-483414a74e0d43f8a4e42b59fa515ebc/artifacts
+creation_timestamp: 1773491623182
+experiment_id: '845697618217024994'
+last_updated_timestamp: 1773491631246
+model_id: m-483414a74e0d43f8a4e42b59fa515ebc
+model_type: null
+name: tuned_model
+source_run_id: 98c70aa6a1fe48789fa406ac7bd2049a
+status: 2
+status_message: null

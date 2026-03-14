@@ -1,0 +1,23 @@
+artifact_path: file:///c:\Users\user\ALEX.AI\SAIR_Jr\1_Regression\Regression Capstone
+  Projects\Awab.poject\experiments/845697618217024994/models/m-e99ea2386f1244e2b532b4978f7f0d7a/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.1
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-e99ea2386f1244e2b532b4978f7f0d7a
+model_size_bytes: 7941761
+model_uuid: m-e99ea2386f1244e2b532b4978f7f0d7a
+prompts: null
+run_id: bfa7b557c1e74edb9464a32d0210146c
+utc_time_created: '2026-03-13 14:57:46.497368'
